@@ -1,0 +1,15 @@
+C:\Users\CAD CAM\Desktop\я\Seminar 12_09_2022\Seminar_HelloConsole\bin\Debug\net6.0\Seminar_HelloConsole.exe
+C:\Users\CAD CAM\Desktop\я\Seminar 12_09_2022\Seminar_HelloConsole\bin\Debug\net6.0\Seminar_HelloConsole.deps.json
+C:\Users\CAD CAM\Desktop\я\Seminar 12_09_2022\Seminar_HelloConsole\bin\Debug\net6.0\Seminar_HelloConsole.runtimeconfig.json
+C:\Users\CAD CAM\Desktop\я\Seminar 12_09_2022\Seminar_HelloConsole\bin\Debug\net6.0\Seminar_HelloConsole.dll
+C:\Users\CAD CAM\Desktop\я\Seminar 12_09_2022\Seminar_HelloConsole\bin\Debug\net6.0\Seminar_HelloConsole.pdb
+C:\Users\CAD CAM\Desktop\я\Seminar 12_09_2022\Seminar_HelloConsole\obj\Debug\net6.0\Seminar_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\CAD CAM\Desktop\я\Seminar 12_09_2022\Seminar_HelloConsole\obj\Debug\net6.0\Seminar_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAD CAM\Desktop\я\Seminar 12_09_2022\Seminar_HelloConsole\obj\Debug\net6.0\Seminar_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\CAD CAM\Desktop\я\Seminar 12_09_2022\Seminar_HelloConsole\obj\Debug\net6.0\Seminar_HelloConsole.AssemblyInfo.cs
+C:\Users\CAD CAM\Desktop\я\Seminar 12_09_2022\Seminar_HelloConsole\obj\Debug\net6.0\Seminar_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\CAD CAM\Desktop\я\Seminar 12_09_2022\Seminar_HelloConsole\obj\Debug\net6.0\Seminar_HelloConsole.dll
+C:\Users\CAD CAM\Desktop\я\Seminar 12_09_2022\Seminar_HelloConsole\obj\Debug\net6.0\refint\Seminar_HelloConsole.dll
+C:\Users\CAD CAM\Desktop\я\Seminar 12_09_2022\Seminar_HelloConsole\obj\Debug\net6.0\Seminar_HelloConsole.pdb
+C:\Users\CAD CAM\Desktop\я\Seminar 12_09_2022\Seminar_HelloConsole\obj\Debug\net6.0\Seminar_HelloConsole.genruntimeconfig.cache
+C:\Users\CAD CAM\Desktop\я\Seminar 12_09_2022\Seminar_HelloConsole\obj\Debug\net6.0\ref\Seminar_HelloConsole.dll
